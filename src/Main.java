@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 
-    // Listas donde vamos a guardar todo
+    // Listas donde vamos a guardartodo
     private static final List<Marca> marcas = new ArrayList<>();
     private static final List<Dueno> duenos = new ArrayList<>();
     private static final List<Carro> carros = new ArrayList<>();
